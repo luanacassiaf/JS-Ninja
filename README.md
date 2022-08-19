@@ -1,4 +1,4 @@
-# JS-Ninja
+# javascript-course
 
 Curso JS Ninja, realizado na plataforma Dev Samurai.
 
